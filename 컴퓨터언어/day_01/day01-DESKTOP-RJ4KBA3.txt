@@ -1,0 +1,22 @@
+파이썬 : 인터프리터 언어 (한줄한줄 대화마냥)
+Alt + p : 이전 명령
+Alt + n : 이후 명령
+# 들여쓰기에 민감한 언어
+divmod 함수 : (5,2) 괄호 안에  수를 몫과나머지를 구해줌
+부동 소수점(floating point)컴퓨터가 실수 저장하는 방식 :  ex. 1.123151234e+30
+고정 소수점 :  ex. 
+interactive : 대화형
+batch : 일괄처리형
+
+터미널에서 심볼링크 만드는법
+cmd실행 -> c:\사용자경로>mklink /d suyoung2 바로가기할디렉토리 선택 
+환경변수에
+Anaconda3
+Anaconda3\Scripts
+Anaconda3\Library\bin
+
+jupyter 실행 -> 아나콘다를 깔면서 자동으로 Launch되는 jupyter
+윈도우 -> 아나콘다네이게이터 -> jupyter notebook 실행 -> 터미널이 나오고 웹이 열림
+
+jupyter 단축키 :	 b or z 행추가
+		 dd : 행 삭제
