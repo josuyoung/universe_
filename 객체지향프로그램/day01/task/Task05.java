@@ -4,9 +4,10 @@ public class Task05 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n = 4;
-		int result = factorial(n);
-		System.out.println("¥‰¿∫:"+result);
+
+		for(int i = 0; i<6; i++) {
+			System.out.println("f("+i+") = "+factorial(i));
+		}
 	}
 	public static int factorial(int num1) {
 		if(num1 == 0) {
